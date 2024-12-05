@@ -1,11 +1,8 @@
 /* styles.css */
-
-/* Customização do fundo da página */
 body {
     background-color: #f8f9fa;
 }
 
-/* Cartões estilizados */
 .card {
     border: 1px solid #ddd;
     border-radius: 10px;
@@ -24,7 +21,6 @@ body {
     padding: 20px;
 }
 
-/* Botões */
 .btn-primary {
     background-color: #007bff;
 }
@@ -33,7 +29,6 @@ body {
     background-color: #28a745;
 }
 
-/* Ajustes de espaçamento */
 .mt-5 {
     margin-top: 50px;
 }
